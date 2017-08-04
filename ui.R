@@ -1,5 +1,5 @@
 
-#college explorer UI
+#college explorer UI file
 
 library(shiny)
 library(shinyjs)
